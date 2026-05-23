@@ -189,6 +189,13 @@ Recommended dashboard pages:
 - Model card: [docs/model_card.md](docs/model_card.md)
 - Executive summary: [docs/executive_summary.md](docs/executive_summary.md)
 
+## BI Build Assets
+
+- Tableau build guide: [bi/tableau/tableau_build_guide.md](bi/tableau/tableau_build_guide.md)
+- Tableau dashboard blueprint: [bi/tableau/dashboard_blueprint.md](bi/tableau/dashboard_blueprint.md)
+- Tableau calculated fields: [bi/tableau/calculated_fields.md](bi/tableau/calculated_fields.md)
+- Tableau public copy: [bi/tableau/public_dashboard_copy.md](bi/tableau/public_dashboard_copy.md)
+
 ## Portfolio Positioning
 
 This project is meant to demonstrate:

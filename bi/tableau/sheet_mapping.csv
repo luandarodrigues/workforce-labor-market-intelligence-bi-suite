@@ -1,0 +1,15 @@
+sheet_name,dashboard,visual_type,primary_measure,primary_dimension,notes
+Headcount KPI,Executive Overview,text,COUNT(employee_id),,single KPI card
+Attrition Rate KPI,Executive Overview,text,AVG(attrition_flag),,format as percentage
+High Risk Employees KPI,Executive Overview,text,SUM([High Risk Flag]),,single KPI card
+Attrition Trend,Executive Overview,line,AVG(attrition_flag),date_id,show monthly trend
+Risk Band Distribution,Executive Overview,bar,COUNT(employee_id),risk_band,color by risk band
+Retention Priority by Department,Executive Overview,horizontal_bar,AVG(retention_priority_index),department_name,sort descending
+Attrition by Department,Executive Overview,horizontal_bar,AVG(attrition_flag),department_name,format as percentage
+Risk by Job Role,Attrition Risk,horizontal_bar,AVG(attrition_probability),job_role,color by risk level
+Risk by Salary Band,Attrition Risk,bar,AVG(attrition_probability),salary_band,compare pay bands
+Main Risk Drivers,Attrition Risk,bar,COUNT(employee_id),main_risk_driver,descending count
+Recommended Actions,Attrition Risk,text,COUNT(employee_id),recommended_action,use as grouped text table
+External Pressure by Occupation Group,Labor Market Context,horizontal_bar,AVG(external_pressure_score),occupation_group,sort descending
+Departments Exposed to External Pressure,Labor Market Context,horizontal_bar,AVG(external_pressure_score),department_name,use exposure narrative
+Labor Market Trend,Labor Market Context,line,AVG(external_pressure_score),date_id,show external trend
