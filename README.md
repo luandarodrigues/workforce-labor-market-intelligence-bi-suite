@@ -2,6 +2,11 @@
 
 An end-to-end analytics engineering project that combines internal HR data, labor market context, attrition risk scoring, and BI-ready outputs for workforce planning.
 
+## Language Versions
+
+- English: `README.md`
+- Portuguese (Brazil): `README.pt-BR.md`
+
 ## Overview
 
 This repository is designed as a BI product, not just an exploratory analysis or dashboard mockup. The project models workforce data into governed dimensions and facts, enriches that layer with labor market signals, scores employee attrition risk, and exports ready-to-consume assets for Power BI, Tableau, and warehouse-based analytics workflows.
@@ -195,6 +200,8 @@ Recommended dashboard pages:
 - Tableau dashboard blueprint: [bi/tableau/dashboard_blueprint.md](bi/tableau/dashboard_blueprint.md)
 - Tableau calculated fields: [bi/tableau/calculated_fields.md](bi/tableau/calculated_fields.md)
 - Tableau public copy: [bi/tableau/public_dashboard_copy.md](bi/tableau/public_dashboard_copy.md)
+- Power BI theme: [bi/powerbi/workforce_intelligence_theme.json](bi/powerbi/workforce_intelligence_theme.json)
+- Power BI theme guide: [bi/powerbi/theme_usage.md](bi/powerbi/theme_usage.md)
 
 ## Portfolio Positioning
 
