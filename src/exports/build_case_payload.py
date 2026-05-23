@@ -25,6 +25,12 @@ def _json_ready_records(dataset: pd.DataFrame) -> list[dict]:
             "external_pressure_score",
             "retention_priority_index",
             "occupation_group",
+            "overtime_flag",
+            "main_risk_driver",
+            "recommended_action",
+            "unemployment_rate",
+            "wage_index",
+            "labor_demand_index",
         ]
     ].copy()
 

@@ -16,6 +16,9 @@ def test_build_case_payload_returns_summary_filters_and_rows(tmp_path: Path):
     assert "headcount" in payload["summary"]
     assert "department_name" in payload["filters"]
     assert payload["rows"]
+    assert "main_risk_driver" in payload["rows"][0]
+    assert "recommended_action" in payload["rows"][0]
+    assert "unemployment_rate" in payload["rows"][0]
     assert (tmp_path / "workforce_case_payload.json").exists()
 
 
