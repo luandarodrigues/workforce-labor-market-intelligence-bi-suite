@@ -1,0 +1,9 @@
+headcount:
+  category: standard
+  formula: active employees in reference month
+attrition_rate:
+  category: standard
+  formula: attrition_count / headcount
+retention_priority_index:
+  category: proprietary
+  formula: weighted composite of attrition risk, external labor pressure, and role criticality

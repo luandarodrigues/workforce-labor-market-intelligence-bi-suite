@@ -1,0 +1,11 @@
+[project]
+name = "workforce-labor-market-bi-suite"
+version = "0.1.0"
+description = "BI-first workforce analytics product with labor market intelligence"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

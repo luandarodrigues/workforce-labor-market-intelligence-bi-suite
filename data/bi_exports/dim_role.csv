@@ -1,0 +1,10 @@
+role_id,job_role,job_level,role_family,occupation_group,role_criticality
+1,Healthcare Representative,1,,,
+2,Human Resources,1,,,
+3,Laboratory Technician,1,Healthcare,Healthcare Practitioners,medium
+4,Manager,1,,,
+5,Manufacturing Director,1,,,
+6,Research Director,1,,,
+7,Research Scientist,1,Technology,Computer and Mathematical,high
+8,Sales Executive,1,Sales,Sales Occupations,high
+9,Sales Representative,1,,,

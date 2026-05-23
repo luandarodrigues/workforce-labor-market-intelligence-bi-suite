@@ -1,0 +1,4 @@
+date_id,region_id,occupation_group,unemployment_rate,wage_index,labor_demand_index,external_pressure_score
+202401,us_national,Sales Occupations,4.2,1.03,1.01,0.62
+202401,us_national,Computer and Mathematical,2.7,1.1,1.08,0.44
+202401,us_national,Healthcare Practitioners,3.1,1.06,1.05,0.57

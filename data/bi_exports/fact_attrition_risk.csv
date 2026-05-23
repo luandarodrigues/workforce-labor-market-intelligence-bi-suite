@@ -1,0 +1,1471 @@
+employee_id,date_id,attrition_probability,risk_band,main_risk_driver,recommended_action,model_version
+1,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+2,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+4,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+5,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+7,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+8,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+10,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+11,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+12,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+13,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+14,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+15,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+16,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+18,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+19,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+20,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+21,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+22,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+23,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+24,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+26,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+27,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+28,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+30,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+31,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+32,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+33,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+35,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+36,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+38,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+39,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+40,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+41,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+42,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+45,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+46,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+47,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+49,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+51,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+52,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+53,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+54,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+55,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+56,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+57,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+58,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+60,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+61,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+62,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+63,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+64,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+65,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+68,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+70,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+72,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+73,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+74,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+75,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+76,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+77,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+78,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+79,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+80,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+81,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+83,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+84,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+85,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+86,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+88,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+90,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+91,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+94,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+95,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+96,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+97,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+98,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+100,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+101,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+102,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+103,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+104,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+105,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+106,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+107,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+110,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+112,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+113,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+116,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+117,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+118,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+119,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+120,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+121,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+124,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+125,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+126,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+128,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+129,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+131,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+132,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+133,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+134,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+137,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+138,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+139,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+140,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+141,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+142,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+143,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+144,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+145,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+147,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+148,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+150,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+151,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+152,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+153,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+154,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+155,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+158,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+159,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+160,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+161,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+162,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+163,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+164,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+165,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+167,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+169,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+170,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+171,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+174,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+175,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+176,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+177,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+178,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+179,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+182,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+183,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+184,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+190,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+192,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+193,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+194,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+195,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+197,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+198,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+199,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+200,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+201,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+202,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+204,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+205,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+206,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+207,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+208,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+211,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+214,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+215,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+216,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+217,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+218,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+221,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+223,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+224,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+226,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+227,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+228,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+230,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+231,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+233,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+235,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+238,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+239,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+240,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+241,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+242,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+243,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+244,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+245,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+246,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+247,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+248,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+249,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+250,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+252,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+253,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+254,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+256,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+258,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+259,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+260,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+261,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+262,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+264,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+267,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+269,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+270,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+271,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+273,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+274,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+275,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+277,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+281,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+282,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+283,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+284,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+286,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+287,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+288,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+291,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+292,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+293,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+296,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+297,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+298,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+299,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+300,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+302,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+303,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+304,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+305,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+306,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+307,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+308,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+309,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+311,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+312,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+314,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+315,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+316,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+319,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+321,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+323,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+325,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+327,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+328,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+329,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+330,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+331,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+332,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+333,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+334,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+335,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+336,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+337,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+338,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+339,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+340,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+341,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+342,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+343,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+346,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+347,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+349,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+350,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+351,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+352,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+353,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+355,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+359,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+361,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+362,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+363,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+364,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+366,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+367,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+369,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+372,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+373,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+374,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+376,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+377,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+378,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+379,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+380,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+381,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+382,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+384,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+385,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+386,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+387,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+388,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+389,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+390,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+391,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+392,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+393,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+394,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+395,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+396,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+397,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+399,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+401,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+403,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+404,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+405,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+406,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+407,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+408,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+410,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+411,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+412,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+416,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+417,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+419,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+420,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+421,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+422,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+423,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+424,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+425,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+426,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+428,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+429,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+430,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+431,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+433,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+434,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+436,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+437,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+438,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+439,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+440,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+441,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+442,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+444,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+445,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+446,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+447,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+448,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+449,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+450,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+451,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+452,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+453,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+454,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+455,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+456,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+458,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+460,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+461,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+462,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+463,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+464,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+465,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+466,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+467,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+468,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+469,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+470,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+471,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+473,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+474,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+475,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+476,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+477,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+478,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+479,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+481,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+482,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+483,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+484,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+485,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+486,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+487,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+488,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+491,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+492,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+493,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+494,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+495,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+496,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+497,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+498,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+499,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+500,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+501,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+502,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+505,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+507,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+508,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+510,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+511,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+513,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+514,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+515,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+516,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+517,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+518,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+520,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+521,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+522,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+523,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+524,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+525,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+526,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+527,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+529,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+530,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+531,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+532,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+533,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+534,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+536,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+538,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+543,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+544,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+546,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+547,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+548,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+549,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+550,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+551,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+554,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+555,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+556,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+558,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+560,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+562,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+564,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+565,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+566,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+567,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+568,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+569,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+571,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+573,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+574,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+575,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+577,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+578,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+579,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+580,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+581,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+582,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+584,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+585,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+586,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+587,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+590,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+591,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+592,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+593,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+595,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+597,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+599,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+600,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+601,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+602,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+604,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+605,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+606,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+608,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+611,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+612,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+613,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+614,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+615,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+616,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+618,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+620,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+621,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+622,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+623,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+624,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+625,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+626,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+630,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+631,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+632,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+634,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+635,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+638,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+639,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+641,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+643,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+644,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+645,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+647,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+648,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+649,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+650,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+652,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+653,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+655,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+656,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+657,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+659,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+661,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+662,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+663,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+664,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+665,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+666,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+667,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+669,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+671,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+675,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+677,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+679,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+680,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+682,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+683,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+684,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+686,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+689,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+690,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+691,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+692,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+698,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+699,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+700,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+701,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+702,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+704,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+705,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+707,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+709,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+710,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+712,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+714,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+715,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+716,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+717,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+720,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+721,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+722,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+723,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+724,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+725,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+727,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+728,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+729,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+730,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+731,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+732,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+733,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+734,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+738,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+741,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+742,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+743,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+744,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+746,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+747,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+749,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+752,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+754,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+757,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+758,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+760,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+762,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+763,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+764,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+766,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+769,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+771,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+772,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+773,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+775,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+776,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+780,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+781,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+783,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+784,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+785,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+786,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+787,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+789,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+791,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+792,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+793,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+796,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+797,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+799,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+800,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+802,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+803,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+804,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+805,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+806,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+807,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+808,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+809,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+811,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+812,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+813,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+815,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+816,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+817,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+819,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+820,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+823,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+824,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+825,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+826,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+827,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+828,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+829,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+830,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+832,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+833,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+834,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+836,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+837,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+838,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+840,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+842,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+843,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+844,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+845,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+846,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+847,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+848,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+850,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+851,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+852,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+854,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+855,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+856,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+857,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+859,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+861,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+862,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+864,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+865,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+867,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+868,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+869,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+872,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+874,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+875,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+878,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+879,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+880,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+881,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+882,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+885,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+887,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+888,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+889,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+893,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+894,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+895,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+896,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+897,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+899,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+900,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+901,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+902,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+903,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+904,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+905,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+909,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+910,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+911,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+912,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+913,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+916,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+918,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+920,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+922,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+923,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+924,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+925,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+926,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+927,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+930,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+932,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+933,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+934,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+936,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+939,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+940,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+941,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+942,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+944,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+945,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+947,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+949,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+950,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+951,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+952,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+954,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+956,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+957,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+958,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+959,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+960,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+961,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+964,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+966,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+967,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+969,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+970,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+972,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+974,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+975,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+976,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+977,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+981,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+982,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+983,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+984,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+985,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+986,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+987,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+990,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+991,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+992,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+994,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+995,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+996,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+997,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+998,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+999,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1001,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1002,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1003,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1004,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1005,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1006,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1007,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1009,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1010,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1011,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1012,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1013,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1014,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1015,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1016,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1017,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1018,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1019,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1022,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1024,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1025,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1026,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1027,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1028,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1029,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1030,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1032,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1033,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1034,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1035,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1036,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1037,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1038,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1039,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1040,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1042,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1043,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1044,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1045,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1046,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1047,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1048,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1049,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1050,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1052,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1053,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1055,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1056,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1060,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1061,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1062,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1066,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1068,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1069,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1070,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1071,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1073,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1074,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1076,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1077,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1079,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1080,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1081,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1082,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1083,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1084,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1085,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1088,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1092,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1094,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1096,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1097,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1098,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1099,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1100,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1101,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1102,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1103,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1105,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1106,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1107,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1108,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1109,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1111,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1113,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1114,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1115,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1116,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1117,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1118,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1119,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1120,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1121,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1124,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1125,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1126,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1127,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1128,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1131,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1132,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1133,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1135,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1136,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1137,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1138,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1140,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1143,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1148,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1150,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1152,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1154,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1156,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1157,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1158,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1160,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1161,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1162,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1163,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1164,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1165,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1166,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1167,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1171,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1172,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1173,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1175,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1177,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1179,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1180,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1182,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1184,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1185,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1188,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1190,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1191,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1192,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1193,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1195,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1196,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1198,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1200,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1201,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1202,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1203,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1204,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1206,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1207,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1210,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1211,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1212,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1215,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1216,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1217,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1218,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1219,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1220,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1221,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1224,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1225,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1226,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1228,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1231,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1233,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1234,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1235,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1237,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1238,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1239,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1240,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1241,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1242,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1243,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1244,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1245,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1246,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1248,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1249,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1250,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1251,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1252,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1254,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1255,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1256,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1257,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1258,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1259,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1260,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1263,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1264,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1265,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1267,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1268,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1269,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1270,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1273,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1275,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1277,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1278,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1279,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1280,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1281,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1282,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1283,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1285,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1286,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1288,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1289,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1291,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1292,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1293,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1294,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1295,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1296,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1297,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1298,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1299,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1301,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1303,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1304,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1306,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1307,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1308,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1309,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1310,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1311,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1312,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1314,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1315,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1317,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1318,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1319,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1321,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1322,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1324,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1329,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1331,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1333,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1334,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1336,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1338,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1340,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1344,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1346,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1349,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1350,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1352,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1355,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1356,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1358,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1360,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1361,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1362,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1363,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1364,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1367,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1368,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1369,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1371,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1372,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1373,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1374,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1375,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1377,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1379,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1380,202401,0.8,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1382,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1383,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1387,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1389,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1390,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1391,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1392,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1394,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1395,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1396,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1397,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1399,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1401,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1402,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1403,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1405,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1407,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1408,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1409,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1411,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1412,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1415,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1417,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1419,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1420,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1421,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1422,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1423,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1424,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1425,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1427,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1428,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1430,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1431,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1433,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1434,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1435,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1436,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1438,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1439,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1440,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1441,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1443,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1445,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1446,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1447,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1448,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1449,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1453,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1457,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1458,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1459,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1460,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1461,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1464,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1465,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1466,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1467,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1468,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1469,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1471,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1472,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1473,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1474,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1475,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1477,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1478,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1479,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1480,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1481,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1482,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1483,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1484,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1485,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1486,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1487,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1489,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1492,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1494,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1495,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1496,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1497,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1499,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1501,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1502,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1503,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1504,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1506,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1507,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1509,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1513,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1514,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1515,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1516,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1520,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1522,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1523,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1525,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1527,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1529,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1533,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1534,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1535,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1537,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1539,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1541,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1542,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1543,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1544,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1545,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1546,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1547,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1548,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1549,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1550,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1551,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1552,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1553,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1554,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1555,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1556,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1557,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1558,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1560,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1562,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1563,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1564,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1568,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1569,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1572,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1573,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1574,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1576,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1577,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1578,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1580,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1581,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1582,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1583,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1585,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1586,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1587,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1588,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1590,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1591,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1592,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1594,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1595,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1596,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1597,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1598,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1599,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1601,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1602,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1604,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1605,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1606,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1607,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1608,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1609,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1611,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1612,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1613,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1614,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1615,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1617,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1618,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1619,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1621,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1622,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1623,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1624,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1625,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1627,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1628,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1630,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1631,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1633,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1635,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1638,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1639,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1640,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1641,202401,0.7,High Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1642,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1644,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1645,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1646,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1647,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1648,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1649,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1650,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1651,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1653,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1654,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1655,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1656,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1657,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1658,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1659,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1661,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1662,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1664,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1665,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1666,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1667,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1668,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1669,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1670,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1671,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1673,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1674,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1675,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1676,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1677,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1678,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1680,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1681,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1682,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1683,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1684,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1687,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1689,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1691,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1692,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1693,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1694,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1696,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1697,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1698,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1700,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1701,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1702,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1703,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1704,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1706,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1707,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1708,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1709,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1710,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1712,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1714,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1716,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1718,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1719,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1720,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1721,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1722,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1724,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1725,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1727,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1728,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1729,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1731,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1732,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1733,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1734,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1735,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1736,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1737,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1739,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1740,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1744,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1745,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1746,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1747,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1749,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1751,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1752,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1753,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1754,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1755,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1756,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1757,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1758,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1760,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1761,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1762,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1763,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1764,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1766,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1767,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1768,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1770,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1771,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1772,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1774,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1775,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1778,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1779,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1780,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1782,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1783,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1784,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1786,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1787,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1789,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1790,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1792,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1794,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1797,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1798,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1799,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1800,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1801,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1802,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1803,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1804,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1805,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1807,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1809,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1812,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1813,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1814,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1815,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1816,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1818,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1821,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1822,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1823,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1824,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1826,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1827,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1829,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1830,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1833,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1834,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1835,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1836,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1837,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1839,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1842,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1844,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1845,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1847,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1849,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1850,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1852,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1853,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1854,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1856,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1857,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1858,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1859,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1860,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1862,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1863,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1864,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1865,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1866,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1867,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1868,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1869,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1870,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1871,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1873,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1875,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1876,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1878,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1880,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1881,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1882,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1883,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1885,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1886,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1888,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1890,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1892,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1893,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1898,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1900,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1903,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1905,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1907,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1908,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1909,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1911,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1912,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1915,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1916,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1918,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1922,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1924,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1927,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1928,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1929,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1931,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1932,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1933,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1934,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1935,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1936,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1937,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1938,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1939,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1940,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1941,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1943,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1944,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1945,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1947,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1948,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1949,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1950,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1951,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1952,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1954,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1955,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1956,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1960,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1961,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1962,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1965,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1966,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1967,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1968,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1969,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1970,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1971,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1972,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1973,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1974,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1975,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1976,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1979,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1980,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1981,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1982,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1985,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1986,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1987,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1989,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1992,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1993,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1994,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1995,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+1996,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+1997,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+1998,202401,0.55,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+1999,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2000,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2003,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2007,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2008,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2009,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2010,202401,0.4,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2012,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2013,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2014,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2015,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2016,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+2017,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2018,202401,0.65,Medium Risk,Overtime and work-life balance,Review workload and manager allocation,baseline_v1
+2019,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2020,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2021,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2022,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2023,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2024,202401,0.3,Low Risk,Career progression,Prioritize career progression review,baseline_v1
+2025,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2026,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2027,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2031,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2032,202401,0.6,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2034,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2035,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2036,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2037,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2038,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2040,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2041,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2044,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2045,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2046,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2048,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2049,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2051,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2052,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2053,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2054,202401,0.45,Medium Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2055,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2056,202401,0.5,Medium Risk,Career progression,Prioritize career progression review,baseline_v1
+2057,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2060,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2061,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2062,202401,0.15,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2064,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2065,202401,0.35,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1
+2068,202401,0.25,Low Risk,Mixed workforce factors,Monitor and discuss retention plan,baseline_v1

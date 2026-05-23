@@ -1,0 +1,4 @@
+job_role,occupation_group,role_family,role_criticality
+Sales Executive,Sales Occupations,Sales,high
+Research Scientist,Computer and Mathematical,Technology,high
+Laboratory Technician,Healthcare Practitioners,Healthcare,medium
