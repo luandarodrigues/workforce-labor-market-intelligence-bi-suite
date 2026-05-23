@@ -24,7 +24,7 @@ This repository delivers a BI-ready workforce analytics product that combines in
 
 ## Source Status
 
-- Internal HR source: `C:\Users\Luanda Rodrigues\Documents\Codex\2026-05-22\preciso-desenhar-esse-projeto-todo-pra\data\raw\internal\WA_Fn-UseC_-HR-Employee-Attrition.csv`
+- Internal HR source: `WA_Fn-UseC_-HR-Employee-Attrition.csv`
 - External labor market source: `demo_bls_structure`
 
 ## Interpretation

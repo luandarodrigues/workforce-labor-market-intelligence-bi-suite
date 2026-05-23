@@ -116,7 +116,7 @@ The pipeline produces these files in `data/bi_exports/`:
 - `tableau_ready_dataset.csv`
 - `powerbi_ready_dataset.xlsx`
 - `metrics_dictionary.xlsx`
-- `pipeline_run_metadata.txt`
+- `pipeline_run_metadata.txt` generated locally during runs
 
 Warehouse output:
 
@@ -183,11 +183,11 @@ Recommended dashboard pages:
 
 ## Documentation
 
-- Business framing: [docs/business_problem.md](C:/Users/Luanda%20Rodrigues/Documents/Codex/2026-05-22/preciso-desenhar-esse-projeto-todo-pra/docs/business_problem.md)
-- Data model: [docs/data_model.md](C:/Users/Luanda%20Rodrigues/Documents/Codex/2026-05-22/preciso-desenhar-esse-projeto-todo-pra/docs/data_model.md)
-- Metric definitions: [docs/metric_definitions.md](C:/Users/Luanda%20Rodrigues/Documents/Codex/2026-05-22/preciso-desenhar-esse-projeto-todo-pra/docs/metric_definitions.md)
-- Model card: [docs/model_card.md](C:/Users/Luanda%20Rodrigues/Documents/Codex/2026-05-22/preciso-desenhar-esse-projeto-todo-pra/docs/model_card.md)
-- Executive summary: [docs/executive_summary.md](C:/Users/Luanda%20Rodrigues/Documents/Codex/2026-05-22/preciso-desenhar-esse-projeto-todo-pra/docs/executive_summary.md)
+- Business framing: [docs/business_problem.md](docs/business_problem.md)
+- Data model: [docs/data_model.md](docs/data_model.md)
+- Metric definitions: [docs/metric_definitions.md](docs/metric_definitions.md)
+- Model card: [docs/model_card.md](docs/model_card.md)
+- Executive summary: [docs/executive_summary.md](docs/executive_summary.md)
 
 ## Portfolio Positioning
 

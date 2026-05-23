@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from datetime import UTC, datetime
 from pathlib import Path
 
 import duckdb
@@ -75,7 +76,24 @@ def _build_labor_market_raw() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def _load_labor_market_source(raw_external_dir: Path) -> tuple[pd.DataFrame, str]:
+def _describe_source_label(source_name: str) -> str:
+    if source_name == "demo":
+        return "demo_hr_dataset"
+    if source_name == "demo_bls_structure":
+        return source_name
+
+    candidate = Path(source_name)
+    if candidate.suffix.lower() == ".csv":
+        return f"file:{candidate.name}"
+    if candidate.suffix.lower() == ".json":
+        return f"snapshot:{candidate.name}"
+    return source_name
+
+
+def _load_labor_market_source(
+    raw_external_dir: Path,
+    occupation_groups: list[str],
+) -> tuple[pd.DataFrame, str]:
     snapshot_path = load_latest_bls_snapshot(raw_external_dir)
     if snapshot_path is None:
         return _build_labor_market_raw(), "demo_bls_structure"
@@ -87,20 +105,21 @@ def _load_labor_market_source(raw_external_dir: Path) -> tuple[pd.DataFrame, str
 
     rows = []
     for record in parsed:
-        rows.append(
-            {
-                "date_id": int(f"{record['year']}01"),
-                "region_id": "us_national",
-                "occupation_group": "All Occupations",
-                "series_id": record["series_id"],
-                "year": record["year"],
-                "period": record["period"],
-                "unemployment_rate": record["value"],
-                "wage_index": 1.0,
-                "labor_demand_index": 1.0,
-                "external_pressure_score": min(1.0, max(0.0, record["value"] / 10)),
-            }
-        )
+        for occupation_group in occupation_groups:
+            rows.append(
+                {
+                    "date_id": record["date_id"],
+                    "region_id": "us_national",
+                    "occupation_group": occupation_group,
+                    "series_id": record["series_id"],
+                    "year": record["year"],
+                    "period": record["period"],
+                    "unemployment_rate": record["value"],
+                    "wage_index": 1.0,
+                    "labor_demand_index": 1.0,
+                    "external_pressure_score": min(1.0, max(0.0, record["value"] / 10)),
+                }
+            )
     return pd.DataFrame(rows), str(snapshot_path)
 
 
@@ -119,9 +138,13 @@ def run_all() -> None:
     ensure_directory(paths.data_exports)
     ensure_directory(paths.warehouse_file.parent)
 
-    hr_df, hr_source_name = load_preferred_hr_source(paths.data_raw_internal)
-    labor_market_raw, labor_market_source_name = _load_labor_market_source(paths.data_raw_external)
     role_mapping = pd.read_csv(Path(__file__).resolve().parent / "staging" / "role_market_mapping.csv")
+    occupation_groups = sorted(role_mapping["occupation_group"].dropna().unique().tolist())
+    hr_df, hr_source_name = load_preferred_hr_source(paths.data_raw_internal)
+    labor_market_raw, labor_market_source_name = _load_labor_market_source(
+        paths.data_raw_external,
+        occupation_groups,
+    )
 
     con = duckdb.connect(str(paths.warehouse_file))
     con.register("hr_raw_df", hr_df)
@@ -178,8 +201,8 @@ def run_all() -> None:
     )
     write_executive_summary(Path("docs/executive_summary.md"))
     (paths.data_exports / "pipeline_run_metadata.txt").write_text(
-        f"hr_source={hr_source_name}\n"
-        f"labor_market_source={labor_market_source_name}\n",
+        f"hr_source={_describe_source_label(hr_source_name)}\n"
+        f"labor_market_source={_describe_source_label(labor_market_source_name)}\n",
         encoding="utf-8",
     )
     print("Running end-to-end workforce analytics pipeline")
@@ -188,7 +211,12 @@ def run_all() -> None:
 def fetch_external() -> None:
     paths = get_project_paths(Path.cwd())
     ensure_directory(paths.data_raw_external)
-    payload = fetch_bls_series(DEFAULT_BLS_SERIES_IDS, start_year=2024, end_year=2024)
+    current_year = datetime.now(UTC).year
+    payload = fetch_bls_series(
+        DEFAULT_BLS_SERIES_IDS,
+        start_year=current_year - 1,
+        end_year=current_year,
+    )
     snapshot_path = save_bls_snapshot(payload, build_bls_snapshot_path(paths.data_raw_external))
     print(f"Saved external snapshot to {snapshot_path}")
 

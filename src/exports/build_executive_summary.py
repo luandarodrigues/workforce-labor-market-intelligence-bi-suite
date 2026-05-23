@@ -29,6 +29,15 @@ def _load_metadata(metadata_path: Path) -> dict[str, str]:
     return metadata
 
 
+def _sanitize_source_label(label: str) -> str:
+    if not label:
+        return "unknown"
+    candidate = Path(label)
+    if candidate.is_absolute():
+        return candidate.name
+    return label
+
+
 def write_executive_summary(path: Path) -> None:
     ensure_parent(path)
     project_root = path.resolve().parents[1]
@@ -60,8 +69,8 @@ def write_executive_summary(path: Path) -> None:
     estimated_replacement_cost = (
         float(employee_fact["estimated_replacement_cost"].sum()) if not employee_fact.empty else 0.0
     )
-    hr_source = metadata.get("hr_source", "unknown")
-    labor_market_source = metadata.get("labor_market_source", "unknown")
+    hr_source = _sanitize_source_label(metadata.get("hr_source", "unknown"))
+    labor_market_source = _sanitize_source_label(metadata.get("labor_market_source", "unknown"))
 
     path.write_text(
         "\n".join(

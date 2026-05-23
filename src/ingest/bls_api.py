@@ -11,15 +11,29 @@ DEFAULT_BLS_SERIES_IDS = [
 ]
 
 
+def build_bls_date_id(year: int, period: str) -> int | None:
+    if not period.startswith("M"):
+        return None
+
+    month = int(period[1:])
+    if month < 1 or month > 12:
+        return None
+    return year * 100 + month
+
+
 def parse_bls_series(payload: dict[str, Any]) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for series in payload.get("Results", {}).get("series", []):
         for point in series.get("data", []):
+            date_id = build_bls_date_id(int(point["year"]), point["period"])
+            if date_id is None:
+                continue
             rows.append(
                 {
                     "series_id": series["seriesID"],
                     "year": int(point["year"]),
                     "period": point["period"],
+                    "date_id": date_id,
                     "value": float(point["value"]),
                 }
             )
